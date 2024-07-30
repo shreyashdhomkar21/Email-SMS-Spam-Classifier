@@ -8,4 +8,5 @@ This project is a spam classifier built using Flask for web deployment. It uses 
 this is a web application
 
 ![Screenshot 2024-07-30 121704](https://github.com/user-attachments/assets/6a93b1f9-4903-4933-9fc0-ef1648c4b7a3)
+
 ![Screenshot 2024-07-30 122024](https://github.com/user-attachments/assets/9ef97406-1db2-49a0-8ff1-e081328178b4)
